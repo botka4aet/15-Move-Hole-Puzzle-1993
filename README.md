@@ -19,3 +19,14 @@
     Releases - https://github.com/botka4aet/15-Move-Hole-Puzzle-1993/releases 
     </td></tr> 
 </table>
+
+## Использованные проекты / Used projects
+
+<table>  
+  <tr><td>RU</td><td>Кодировка файлов - https://marketplace.yoyogames.com/assets/6057/fast-crypt-ultra <br/>
+    Проверка решаемости - https://www.geeksforgeeks.org/check-instance-15-puzzle-solvable/ <br/>
+    </td></tr>
+  <tr><td>EN</td><td>File encryption - https://marketplace.yoyogames.com/assets/6057/fast-crypt-ultra <br/>
+    If puzzle is solvable - https://www.geeksforgeeks.org/check-instance-15-puzzle-solvable/ <br/>
+    </td></tr> 
+</table>
